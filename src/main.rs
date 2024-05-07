@@ -11,13 +11,14 @@
     Safety is the Absence of Undefined Behavior
 */
 
-// Example:
+// Example of a safe program
 fn read(y: bool) {
     if y {
         println!("y is true!");
     }
 }
 
+// Entry point
 fn main() {
     let x = true;
     read(x);
