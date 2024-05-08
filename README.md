@@ -26,6 +26,8 @@
 [The Stack](/src/stack/stack.rs)  
 [The Heap](/src/heap/heap.rs)  
 [Memory Management](/src/memory_management/mem.rs)  
+[Managing Deallocation](/src/memory_management/deallocate.rs)  
+
 
 
 #
