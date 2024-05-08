@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/AchroDev/rust_understanding_ownership">
-    <img src ="images/rust_rusty.png" alt="Logo">
+    <img src ="images/rust_rusty.png" alt="Logo" height="65" width ="65">
   </a>
 <h3 align="center"> Ownership in Rust ~ AchroDev </h3>
 
