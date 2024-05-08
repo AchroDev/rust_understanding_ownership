@@ -29,6 +29,7 @@
 [Managing Deallocation](/src/memory_management/deallocate.rs)  
 [Collections Use Boxes](/src/memory_management/collections.rs)  
 [Moving Variables](/src/memory_management/moved_variables.rs)  
+[Cloning](/src/memory_management/cloning.rs)  
 
 
 #
