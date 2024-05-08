@@ -27,7 +27,7 @@
 [The Heap](/src/heap/heap.rs)  
 [Memory Management](/src/memory_management/mem.rs)  
 [Managing Deallocation](/src/memory_management/deallocate.rs)  
-
+[Collections Use Boxes](/src/memory_management/collections.rs)  
 
 
 #
